@@ -186,3 +186,5 @@ git init
 git add .
 git commit -m "feat: query games and get username"
 git add .
+git commit -m "feat: print first time here"
+git add .
