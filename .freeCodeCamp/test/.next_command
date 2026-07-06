@@ -184,3 +184,5 @@ git add .
 git commit- m "feat: query games and get username"
 git init
 git add .
+git commit -m "feat: query games and get username"
+git add .
